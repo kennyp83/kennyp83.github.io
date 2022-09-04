@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <h2>why does this not work</h2>
+    <Title>Kendall's Portfolio</Title>
 </head>
 
 <body style="background-color: #415acc;">
